@@ -1,3 +1,3 @@
 # Home_Ownership_Kentucky
 Home Ownership Status in Kentucky
-In this project, we estimate the probability of owning a home in Kentucky using logistic regression. 
+In this project, we estimate the probability of owning a home in Kentucky using logistic regression. In the RQ1 file, we used different tests to test the indenpendence between variables, and we also estimated the relative risk of not owning home in Kentucky. In the RQ2 file, we started by selecting the righ model for our data, and we did the backward elimination to exlude variables that were not significant. And then, we built our final model that predicted the probability of owning a home in Kentucky based on some features such as age, marriage status, college degree, poverty,and income. 
